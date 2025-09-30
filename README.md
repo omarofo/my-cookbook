@@ -1,2 +1,2 @@
-# my-cookbook
-A simple cookbook with my favourite recipes
+# My Cookbook
+A growing collection of recipes, added one commit at a time.
